@@ -1,0 +1,72 @@
+{
+  "script": "MIRADA OSCURA \n\nEXT. UNIVERSIDAD – NOCHE\nUna chica sale con un joven que, enojado, la rechaza. Ella suspira y camina hasta un restaurante donde se sienta sola.\n\nINT. RESTAURANTE – NOCHE\nObserva a un hombre viejo y alto (camisa a cuadros, barba blanca) que la mira insistentemente. Él pide un whisky y se acerca. Ella, nerviosa, va al baño. Allí se moja el rostro, mientras otra chica la observa con desprecio antes de irse. Al salir, el hombre continúa observándola. Ella se apresura a salir.\n\nEXT. CALLE – NOCHE\nSe sienta en la acera, revisa el celular (sin batería) y busca dinero. Frustrada, sigue caminando. Pasa una bicicleta cuyo conductor le grita piropos, luego un chico con perro le chifla. Ella los ignora mientras come un chocolate.\n\nEXT. PARADA DE BUS – NOCHE\nSe sienta a esperar. El hombre viejo llega, le habla y toca su pierna. Ella se levanta bruscamente, su bolso cae. Aparece otro joven, pero también la acosa. Mira alrededor y todos los hombres la rodean:\n\nEl viejo se levanta.\n\nEl ciclista regresa.\n\nEl del perro la observa.\n\nUna mujer aparece insultándola.\n\nCLÍMAX\nElla cae contra el letrero de la parada, llora, grita y golpea el piso. Las figuras se transforman en sombras que la rodean mientras las luces parpadean y los vidrios se quiebran. Corte a negro.\n\nPersonajes principales:\n\nChica (vestido/falda, chaqueta, tenis)\n\nHombre viejo (camisa cuadros, chaqueta, jean)\n\nBartender (camisa, jean)\n\nChica secundaria (jean, blusa, tenis)\n\nChico Universidad (buzo, jogger)\n\nChico de la bici (pantaloneta, buzo)\n\nChico del perro (saco, jogger, tenis)\n\nOtro joven (chaqueta camuflada)\n\nEscenografía y utilería: tarjeta U, bolso, vaso, whisky, celular, chocolate, toalla, bicicleta, perro, decoración de restaurante/bar.\n\nEscenarios: salida de universidad, restaurante/bar con baño, trayecto por la calle, parada de bus con letrero y silla.\n\nNotas técnicas: grabar en lugares cercanos; cámara en mano para tensión; énfasis en planos detalle, subjetivos y rack focus.",
+  "characters": [
+    {
+      "description": "Una joven que experimenta rechazo y acoso en la calle. Se muestra vulnerable y frustrada por las situaciones que enfrenta.",
+      "location": "Universidad, Restaurante, Calle, Parada de Bus",
+      "name": "Chica (vestido/falda, chaqueta, tenis)"
+    },
+    {
+      "description": "Un hombre mayor que observa persistentemente a la chica en el restaurante y la acosa en la parada de autobús. Representa una figura amenazante.",
+      "location": "Restaurante, Parada de Bus",
+      "name": "Hombre viejo (camisa cuadros, chaqueta, jean)"
+    },
+    {
+      "description": "Un personaje secundario que atiende en el restaurante.",
+      "location": "Restaurante",
+      "name": "Bartender (camisa, jean)"
+    },
+    {
+      "description": "Una chica que observa a la protagonista en el baño del restaurante con desprecio.",
+      "location": "Restaurante (baño)",
+      "name": "Chica secundaria (jean, blusa, tenis)"
+    },
+    {
+      "description": "Un joven que rechaza a la protagonista al inicio de la historia.",
+      "location": "Universidad",
+      "name": "Chico Universidad (buzo, jogger)"
+    },
+    {
+      "description": "Un ciclista que acosa verbalmente a la protagonista en la calle.",
+      "location": "Calle",
+      "name": "Chico de la bici (pantaloneta, buzo)"
+    },
+    {
+      "description": "Un chico con un perro que silba a la protagonista mientras camina por la calle.",
+      "location": "Calle",
+      "name": "Chico del perro (saco, jogger, tenis)"
+    },
+    {
+      "description": "Un joven que acosa a la protagonista en la parada de autobús.",
+      "location": "Parada de Bus",
+      "name": "Otro joven (chaqueta camuflada)"
+    }
+  ],
+  "scenes": [
+    {
+      "sceneNumber": 1,
+      "setting": "EXT. UNIVERSIDAD – NOCHE",
+      "summary": "Una chica sale con un joven que la rechaza. Ella va a un restaurante."
+    },
+    {
+      "sceneNumber": 2,
+      "setting": "INT. RESTAURANTE – NOCHE",
+      "summary": "La chica es observada por un hombre viejo. Ella va al baño, donde otra chica la mira con desprecio. Al salir, el hombre sigue observándola y ella se va."
+    },
+    {
+      "sceneNumber": 3,
+      "setting": "EXT. CALLE – NOCHE",
+      "summary": "La chica se sienta en la acera, revisa su celular sin batería y busca dinero. Camina por la calle mientras es acosada verbalmente por un ciclista y un chico con perro. Ella come chocolate."
+    },
+    {
+      "sceneNumber": 4,
+      "setting": "EXT. PARADA DE BUS – NOCHE",
+      "summary": "La chica espera el bus. El hombre viejo la acosa verbal y físicamente. Otro joven también la acosa. Se siente rodeada por hombres acosadores y una mujer que la insulta."
+    },
+    {
+      "sceneNumber": 5,
+      "setting": "CLÍMAX",
+      "summary": "La chica cae contra el letrero de la parada, llora y grita. Las figuras se transforman en sombras. Luces parpadean y vidrios se quiebran. Corte a negro."
+    }
+  ]
+}
